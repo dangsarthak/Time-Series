@@ -7,6 +7,8 @@ I am predicting the parameters Para-9, Para-10, Para-11, Para-12, and Para-13 fo
 
 ## Model Used
 I have used Light Gradient Boosting Machine for solving this problem.
+LightGBM is a gradient boosting framework based on decision trees to increases the efficiency of the model and reduces memory usage. 
+It uses two novel techniques: Gradient-based One Side Sampling and Exclusive Feature Bundling (EFB)
 
 ## Results
 The RMSE value of the model is 67.7831.
